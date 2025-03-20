@@ -32,14 +32,15 @@ header {
   padding: 2rem;
   background-color: #183139;
   flex-wrap: wrap;
+  height: 100px;
+  align-content: center;
 }
 
 .enca a {
   padding: 0 0 0 20px;
   color: #91b49e;
-  padding: 0;
   margin: 3px 0 0 20px;
-  font-size: 48px;
+  font-size: 40px;
   overflow: hidden;
   text-decoration: none;
 }
